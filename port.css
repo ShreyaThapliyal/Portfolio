@@ -210,12 +210,13 @@ button:active{
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
+	background-image: url("http://wallpaper-house.com/data/out/8/wallpaper2you_251840.jpg");
 }
 .cont-box{
 	display: flex;
 	justify-content: space-between;
 }
-.boxa{
+/*.boxa{
 	background-image: url("http://wallpaper-house.com/data/out/8/wallpaper2you_251840.jpg");
 }
 .boxb{
@@ -223,7 +224,7 @@ button:active{
 }
 .boxc{
 	background-image: url("http://wallpaper-house.com/data/out/8/wallpaper2you_251840.jpg");
-}
+}*/
 .boxa span,
 .boxb span,
 .boxc span{
